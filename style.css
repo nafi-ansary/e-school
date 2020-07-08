@@ -1,0 +1,72 @@
+.logo{
+    width: 198.07px;
+    height: 59px;
+}
+section{
+    height: 500px;
+    padding: 30px;
+}
+.button{
+    background-color: #21b573;
+    border-radius: 33px;
+    border: none;
+    color: white;
+}
+.half-width{
+ width: 40%;
+ float: left;
+ margin-left: 6%;
+ padding-left: 5%;
+ margin-bottom: 5%;
+ background-color: #f0fff0;
+ 
+}
+.half-width img{
+    width: 100%;
+    
+    background-color: #f0fff0;
+}
+.name-highlight{
+    color: #21b573;
+}
+h2{
+    text-align: center;
+}
+.calender{
+    width: 24px;
+    height: 24px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.img1, .img2, .img3, .img4{
+    width: 75px;
+    height: 80px;
+    margin-top: 200px;
+    margin-left: 10%;
+}
+.text-p{
+    text-align: center;
+}
+.width{
+    width: 50%;
+    text-align: center;
+    
+}
+.last-part{
+    background-color: #21b573;
+}
+.row2{
+    color: black;
+}
+footer{
+    text-align: center;
+}
+.p{
+    text-align: center;
+}.img5{
+    width: 240px;
+    height: 240px;
+}
+
